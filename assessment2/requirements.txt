@@ -1,0 +1,5 @@
+datetime
+Flask
+python-dotenv
+pymongo
+dnspython
